@@ -1,6 +1,6 @@
 # Minecraft-Server
 
 ## Step 1. Download Java
-'''apt install java'''
+<code>apt install java</code>
 
 ## Step 2. 
