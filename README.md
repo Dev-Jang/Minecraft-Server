@@ -16,14 +16,14 @@ Now download the version 1.12.2 [Forge Installer](https://files.minecraftforge.n
 <br>
 
 ## Step 4. Configure New Minecraft Server
-### Install Server
+* Install Server
 <pre><code>java -jar forge-1.12.2-14.23.5.2838-installer.jar --installServer</code></pre>
-### Run Server
+* Run Server
 <pre><code>java -Xms1024M -Xmx2048M -jar /minecraft/forge-1.12.2-14.23.5.2838-universal.jar nogui</code></pre>
-### Accept the EULA
+* Accept the EULA
 <pre><code>vim eula.txt
 eula=true</code></pre>
-### Run Server again
+* Run Server again
 <pre><code>java -Xms1024M -Xmx2048M -jar /minecraft/forge-1.12.2-14.23.5.2838-universal.jar nogui</code></pre>
 
 <br>
